@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "65d63fa3d4205d4d774e0911"
+  },
+  "name": "pepsi cola",
+  "cals": 120,
+  "price": 9,
+  "img_url": "",
+  "user_id": "65d6254134251132c1ac6623",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6408ad4205d4d774e0913"
+  },
+  "name": "beer",
+  "cals": 250,
+  "price": 15,
+  "img_url": "",
+  "user_id": "65d6254134251132c1ac6623",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d64094d4205d4d774e0915"
+  },
+  "name": "Sprite",
+  "cals": 100,
+  "price": 10,
+  "img_url": "",
+  "user_id": "65d6254134251132c1ac6623",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6440362f89c8b9db004c9"
+  },
+  "name": "7 UP",
+  "cals": 100,
+  "price": 7,
+  "img_url": "",
+  "user_id": "65d6254134251132c1ac6623",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df62acd12631296b03ad98"
+  },
+  "name": "Maccabi beer",
+  "cals": 300,
+  "price": 12,
+  "img_url": "",
+  "user_id": "65df5edfd12631296b03ad91",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df63a6d12631296b03ad9a"
+  },
+  "name": "English beer",
+  "cals": 100,
+  "price": 10,
+  "img_url": "",
+  "user_id": "65df5edfd12631296b03ad91",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df6c7d5e8dc988cf8bcc85"
+  },
+  "name": "Gold cola",
+  "cals": 200,
+  "price": 8,
+  "img_url": "",
+  "user_id": "65df5edfd12631296b03ad91",
+  "__v": 0
+}]

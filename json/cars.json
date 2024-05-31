@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "65840e674de1af726c8b4f72"
+  },
+  "name": "toyota prius",
+  "color": "blue",
+  "year": 2015
+},
+{
+  "_id": {
+    "$oid": "658429a4e8806b0c8360e24c"
+  },
+  "name": "Tesla 3",
+  "color": "white",
+  "year": 2021
+},
+{
+  "_id": {
+    "$oid": "658d257a3918b887f77557af"
+  },
+  "name": "Mazda 6",
+  "color": "white",
+  "year": 2019
+},
+{
+  "_id": {
+    "$oid": "658d2a9f408be492c229c4e7"
+  },
+  "name": "Ford focus",
+  "color": "Silver",
+  "year": 2022
+},
+{
+  "_id": {
+    "$oid": "658d6d250e404729f8e01d21"
+  },
+  "name": "Mazda 3",
+  "color": "red",
+  "year": 2019
+},
+{
+  "_id": {
+    "$oid": "658d6fcd391c98e0f1d2d5f0"
+  },
+  "name": "Mazda 2",
+  "color": "green",
+  "year": 2019
+},
+{
+  "_id": {
+    "$oid": "659667ae7435cb150a7ebd77"
+  },
+  "name": "BMW",
+  "color": "Green",
+  "year": 2010
+},
+{
+  "_id": {
+    "$oid": "659673653f05376669218599"
+  },
+  "name": "JEEP 2",
+  "color": "Red",
+  "year": 2023
+},
+{
+  "_id": {
+    "$oid": "65a3e17a69c0c8b693dfb24f"
+  },
+  "name": "Ferrari",
+  "color": "red",
+  "year": 1984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a40c6bbe0a48b3371e91c9"
+  },
+  "color": "red",
+  "year": 1984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a413aae71d2b9b8c6380d2"
+  },
+  "name": "opel",
+  "color": "red",
+  "year": 2024,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a64ba71aac22f6d6790bfe"
+  },
+  "name": "Toyota yaris",
+  "color": "blue",
+  "year": 2020,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8e959d95599a35d4eafbd"
+  },
+  "name": "lada",
+  "color": "red",
+  "year": 2020,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba2ba6425443cd52210e0a"
+  },
+  "name": "toyota corola",
+  "color": "silver",
+  "year": 2024,
+  "__v": 0
+}]

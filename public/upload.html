@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css' rel='stylesheet' integrity='sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT' crossorigin='anonymous'>
+  <link rel="stylesheet" href="upload.css">
+  <title>upload Ai</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script defer type="module" src="js/upload.js"></script>
+</head>
+<body>
+  <div class="container ">
+    <h1 class="display-6 text-center">Monkeys.co.il Form image upload AI</h1>
+    <form id="id_form" class="col-md-6 border border-light p-2 rounded mx-auto">
+      <input id="id_file" type="file" >
+      <button class="btn btn-light">Send</button>
+    </form>
+
+    <div  class="box_rank col-md-6 my-3 mx-auto">
+      <h2>What we find in the image:</h2>
+      <div id="id_box">
+
+      </div>
+      <!-- <div class="box_inside">
+        <label>Cat</label>
+        <div class="bar_rank w-100" >
+          <div class="bar_rank_inside" style="width: 70%;">60%</div>
+        </div>
+      </div> -->
+
+    
+    </div>
+  </div>
+</body>
+</html>

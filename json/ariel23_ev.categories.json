@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6616bdebb8aa49fd0cf79a16"
+  },
+  "name": "Plush toys",
+  "category_id": "Plush",
+  "img_url": "",
+  "createdAt": {
+    "$date": "2024-04-10T16:27:23.654Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T16:27:23.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616bdf7b8aa49fd0cf79a18"
+  },
+  "name": "Building toys",
+  "category_id": "Building",
+  "img_url": "",
+  "createdAt": {
+    "$date": "2024-04-10T16:27:35.874Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T16:27:35.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6616be06b8aa49fd0cf79a1a"
+  },
+  "name": "Electronic toys",
+  "category_id": "Electronic",
+  "img_url": "",
+  "createdAt": {
+    "$date": "2024-04-10T16:27:50.969Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-10T16:27:50.969Z"
+  },
+  "__v": 0
+}]

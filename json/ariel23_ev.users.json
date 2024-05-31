@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "65ccf772f32737d68d69a27e"
+  },
+  "name": "moshe ofnik",
+  "email": "moshe@walla.com",
+  "password": "$2b$10$t.BCTpp9p.On0Fj8ofAv1./LmLfYPF.6AKoUfE.8rOzU.k3CAfGVa",
+  "createdAt": {
+    "$date": "2024-02-14T17:25:06.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T17:25:06.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ccfb73724754d8293eb307"
+  },
+  "name": "joe biden",
+  "email": "biden@walla.com",
+  "password": "$2b$10$yCvBoUUZMBaV2a88KwiDkumm0rwz4/S/jvBqw6VErAti5DH3mmXXe",
+  "createdAt": {
+    "$date": "2024-02-14T17:42:11.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T18:43:27.943Z"
+  },
+  "__v": 0,
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "65cd0dee5ee614061a8577e7"
+  },
+  "name": "donald trump",
+  "email": "trump@walla.com",
+  "password": "$2b$10$4sKDXzDLmXokX9u2VWbhsuEuy98tT0OHfalTvVTbehpGD/IbHtuk2",
+  "createdAt": {
+    "$date": "2024-02-14T19:01:02.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T19:01:02.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6254134251132c1ac6623"
+  },
+  "name": "Barak obama",
+  "email": "barak@walla.com",
+  "password": "$2b$10$e0uOYg.PKaFqCtN8Q9KKz.Qb56KAask0NPttn5DEdGuAhTEPRVuli",
+  "createdAt": {
+    "$date": "2024-02-21T16:30:57.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T16:30:57.596Z"
+  },
+  "__v": 0,
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "65df5edfd12631296b03ad91"
+  },
+  "name": "George bush jr",
+  "email": "bush@walla.com",
+  "password": "$2b$10$cls7f3KFPVqMewIdph5t8OKcBYLspK0qgrwOBkMadfJmzJDoTLGyK",
+  "createdAt": {
+    "$date": "2024-02-28T16:27:11.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T16:27:11.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df5ef7d12631296b03ad93"
+  },
+  "name": "Bill clinton",
+  "email": "clinton@walla.com",
+  "password": "$2b$10$QBN4LHh.giKt5ZQOxRqicutBw3eEbSc0EreynhRayn9zm.kZfwYiW",
+  "createdAt": {
+    "$date": "2024-02-28T16:27:35.900Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T16:27:35.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df6fbdfaa1a5ea5fd607cf"
+  },
+  "name": "admin",
+  "email": "admin@walla.com",
+  "password": "$2b$10$119EFgAg2Z.W.eckudRyMuCCkzYKqLu1RxO46qpbdWS7pnY0SmZ9y",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-02-28T17:39:09.403Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:39:09.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df7000faa1a5ea5fd607d1"
+  },
+  "name": "george bush father",
+  "email": "george@walla.com",
+  "password": "$2b$10$nOmPZ3oyhqqqC8wfOwyLwuIy0yolxYs607mSti2sPAHHBmZLAUGwG",
+  "role": "user",
+  "createdAt": {
+    "$date": "2024-02-28T17:40:16.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T17:40:16.409Z"
+  },
+  "__v": 0
+}]

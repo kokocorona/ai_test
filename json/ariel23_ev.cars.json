@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "65840e674de1af726c8b4f72"
+  },
+  "name": "toyota prius",
+  "color": "blue",
+  "year": 2015
+},
+{
+  "_id": {
+    "$oid": "658429a4e8806b0c8360e24c"
+  },
+  "name": "Tesla 3",
+  "color": "white",
+  "year": 2021
+},
+{
+  "_id": {
+    "$oid": "658d2a9f408be492c229c4e7"
+  },
+  "name": "Ford focus",
+  "color": "Silver",
+  "year": 2022
+},
+{
+  "_id": {
+    "$oid": "659673653f05376669218599"
+  },
+  "name": "JEEP 2",
+  "color": "Red",
+  "year": 2023
+},
+{
+  "_id": {
+    "$oid": "65a3e17a69c0c8b693dfb24f"
+  },
+  "name": "Ferrari",
+  "color": "red",
+  "year": 1984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a40c6bbe0a48b3371e91c9"
+  },
+  "color": "red",
+  "year": 1984,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a8e959d95599a35d4eafbd"
+  },
+  "name": "lada",
+  "color": "red",
+  "year": 2020,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba2ba6425443cd52210e0a"
+  },
+  "name": "toyota corola",
+  "color": "silver",
+  "year": 2024,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba853239a1cda87845451a"
+  },
+  "name": "Ferrari",
+  "color": "red",
+  "year": 1980,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba9111946d1fb637c28c29"
+  },
+  "name": "BMW Z5",
+  "color": "red",
+  "year": 2009,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba973384deff54c85e53cb"
+  },
+  "name": "BMW",
+  "color": "black",
+  "year": 2020,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba997f84deff54c85e53ce"
+  },
+  "name": "BMW",
+  "color": "black",
+  "year": 2020,
+  "__v": 0
+}]

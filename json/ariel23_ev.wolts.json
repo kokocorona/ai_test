@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2c"
+  },
+  "name": "Vanila cake 3",
+  "cals": 800,
+  "price": 30,
+  "img_url": "https://images.pexels.com/photos/12407447/pexels-photo-12407447.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "category_id": "cakes"
+},
+{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2d"
+  },
+  "name": "Chocolate cake",
+  "cals": 700,
+  "price": 40,
+  "img_url": "https://images.pexels.com/photos/12118046/pexels-photo-12118046.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "category_id": "cakes"
+},
+{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2e"
+  },
+  "name": "Orange cake",
+  "cals": 700,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/2035738/pexels-photo-2035738.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "category_id": "cakes"
+},
+{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2f"
+  },
+  "name": "Pizza",
+  "cals": 600,
+  "price": 35,
+  "img_url": "https://images.pexels.com/photos/1552635/pexels-photo-1552635.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "category_id": "Italy"
+},
+{
+  "_id": {
+    "$oid": "635e6a7bf0d7593da60ffe30"
+  },
+  "name": "Pasta",
+  "cals": 600,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/1487511/pexels-photo-1487511.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "category_id": "Italy"
+},
+{
+  "_id": {
+    "$oid": "63676e2676342633fee76e60"
+  },
+  "name": "Apple pie",
+  "cals": 314,
+  "price": 15,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0,
+  "category_id": "cakes"
+},
+{
+  "_id": {
+    "$oid": "636779c1b9d241a35b32ca03"
+  },
+  "name": "Kiwi pie",
+  "cals": 500,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/5863603/pexels-photo-5863603.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0,
+  "category_id": "cakes"
+},
+{
+  "_id": {
+    "$oid": "6370b8c7f8486e2462b2e6d0"
+  },
+  "name": "Shakshoka",
+  "cals": 600,
+  "price": 35,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0,
+  "category_id": "Italy"
+},
+{
+  "_id": {
+    "$oid": "6379f7723b78c688ce42323a"
+  },
+  "name": "Olives pizza",
+  "cals": 500,
+  "price": 50,
+  "img_url": "",
+  "user_id": "6379dcb74a095c14bd595c43",
+  "__v": 0,
+  "category_id": "Italy"
+},
+{
+  "_id": {
+    "$oid": "6379f8333b78c688ce42323c"
+  },
+  "name": "Corn pizza",
+  "cals": 500,
+  "price": 50,
+  "img_url": "https://images.pexels.com/photos/5695928/pexels-photo-5695928.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "user_id": "6379dcb74a095c14bd595c43",
+  "__v": 0,
+  "category_id": "Italy"
+},
+{
+  "_id": {
+    "$oid": "6379f8603b78c688ce42323e"
+  },
+  "name": "Mushrooms pizza",
+  "cals": 500,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/7813575/pexels-photo-7813575.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "user_id": "6379dcb74a095c14bd595c43",
+  "__v": 0,
+  "category_id": "Italy"
+},
+{
+  "_id": {
+    "$oid": "63835cf3a277f76effa3a182"
+  },
+  "name": "Corn pizza",
+  "cals": 500,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/7813575/pexels-photo-7813575.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "date_created": {
+    "$date": "2022-11-27T12:47:49.971Z"
+  },
+  "category_id": "Italy",
+  "user_id": "638319fc92ea535958197116",
+  "__v": 0
+}]

@@ -1,0 +1,38 @@
+body{
+  background: black;
+  color:azure;
+}
+
+.box_rank{
+  background: grey;
+  min-height: 300px;
+  border-radius: 8px;
+  padding:8px 16px;
+}
+
+.box_rank .box_inside{
+  background: silver;
+  padding:8px 16px;
+  border-radius: 8px;
+  margin:8px 0;
+  box-shadow: 0px 7px 7px -7px #000000, 5px 5px 10px 5px rgba(0,0,0,0);
+}
+
+.box_rank .box_inside label{
+  font-weight: bold;
+}
+
+.box_rank .box_inside .bar_rank{
+  background: purple;
+  min-height: 24px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0px 7px 7px -7px #000000, 5px 5px 10px 5px rgba(0,0,0,0);
+}
+
+.box_rank .box_inside .bar_rank .bar_rank_inside{
+  background: pink;
+  min-height: 24px;
+  text-align: center;
+  color:black;
+}
