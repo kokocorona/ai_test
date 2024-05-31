@@ -13,7 +13,8 @@ const declareEvents = () => {
       console.log(id_file.files[0]);
       const form = new FormData();
       form.append("foo",id_file.files[0] )
-      const url = "http://localhost:3001/ai/image";
+      // const url = "http://localhost:3001/ai/image";
+      const url = "https://ai-test-p4ph.onrender.com/ai/image";
       const resp = await axios({
         url:url,
         method:"POST",
