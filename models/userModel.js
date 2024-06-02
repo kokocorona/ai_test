@@ -4,7 +4,8 @@ const jwt = require("jsonwebtoken");
 // כדי שנוכל לתקשר עם קובץ נקוד אי אן וי של משתנים נסתרים
 require("dotenv").config();
 
-console.log(process.env.TOKEN_SECRET);
+console.log("Work")
+// console.log(process.env.TOKEN_SECRET);
 const userSchema = new mongoose.Schema({
   name:String,
   email:String,
