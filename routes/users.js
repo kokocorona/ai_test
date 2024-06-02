@@ -86,7 +86,7 @@ router.post("/login",async(req,res) => {
     res.cookie("token",token,{
         httpOnly: false,
         expires: new Date(Date.now() + 1000 * 60 * 60 * 24 ),
-    }).json({token,msg:"You logged in"})
+    }).json({token,msg:"You logged in",role:user.role})
   }
   catch(err){
     console.log(err);
