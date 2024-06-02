@@ -13,9 +13,9 @@ exports.routesInit = (app) => {
   app.use("/categories", categoriesR);
   app.use("/ai", aiR);
 
-  // app.use("*",(req,res) => {
+  app.use((req,res) => {
 
-  //   res.sendFile(path.join(__dirname, '../public/index.html'))
-  //   // res.status(404).json({msg_error:"Url not found , 404!"})
-  // })
+    res.sendFile(path.join(__dirname, '../public/index.html'))
+    // res.status(404).json({msg_error:"Url not found , 404!"})
+  })
 };
