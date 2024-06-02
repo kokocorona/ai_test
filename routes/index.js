@@ -1,10 +1,8 @@
 const express = require("express");
 const router = express.Router();
 
-// הגדרת ראוטר של הרואט שנגדיר באפ
-router.get("/",async(req,res) => {
-  res.json({msg:"18:57 test"});
+router.get("/", (req,res) => {
+  res.json({msg:"Work from index.js 33333"})
 })
 
-// export default
 module.exports = router;
